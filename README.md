@@ -33,7 +33,7 @@ wp-content/plugins/
 Clone the repository into your plugins directory:
 
 ```bash
-git clone https://github.com/yourusername/scroll-to-top.git
+git clone https://github.com/ahmadesmailimajd1995/scroll-to-top.git
 ```
 
 Then activate the plugin from your WordPress admin panel.
